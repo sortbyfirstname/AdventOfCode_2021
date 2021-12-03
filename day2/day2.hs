@@ -1,4 +1,4 @@
--- Part 1
+-- Part 1 & 2
 
 type Position = (Int, Int, Int)
 
